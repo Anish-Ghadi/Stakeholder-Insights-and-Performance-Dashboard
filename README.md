@@ -86,23 +86,6 @@ This dashboard helps insurance companies:
 
 **Anish**
 
-Computer Engineering Student  
+Artificial Intelligence and Data Science Engineering Student  
 Data Analytics & Business Intelligence Enthusiast
 
----
-
-⭐ If you found this project useful, feel free to **star the repository**.
-```
-
----
-
-# 📁 Suggested GitHub Project Folder Structure
-
-```
-Stakeholder-Insights-Dashboard
-│
-├── dashboard.pbix
-├── dataset.csv
-├── dashboard.png
-└── README.md
-```
