@@ -57,7 +57,7 @@ This project helps organizations make **data-driven decisions** by identifying h
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
